@@ -2,7 +2,7 @@ repo_name: ohimors/nextjs
 report_id: d8e09989e2a2ecec6f4745c571ffc017
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T08:47:33+00:00'
+timestamp: '2024-02-29T18:41:28+00:00'
 requested_by: ohimors
 provider: github
 branch: master
@@ -30,7 +30,7 @@ tools:
   detection_source_url: https://github.com/ohimors/nextjs
   detection_source: Repo Metadata
 - name: Next.js
-  description: 'A small framework for server-rendered universal JavaScript apps '
+  description: A small framework for server-rendered universal JavaScript apps
   website_url: https://nextjs.org/
   version: 9.5.4
   open_source: true
